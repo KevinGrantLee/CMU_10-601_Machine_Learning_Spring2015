@@ -11,8 +11,8 @@ List of topics (non-exhaustive):
 - Logistic/linear regression
 - Learning theory
 - Graphical models
--- Bayesian networks
--- EM
+- - Bayesian networks
+- - EM
 - Boosting
 - Kernels
 - SVM
