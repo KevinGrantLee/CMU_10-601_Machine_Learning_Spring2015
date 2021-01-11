@@ -5,7 +5,7 @@ I am self-studying this course and working through material for my own edificati
 
 10-601 is the introductory ML course for Masters students at CMU. 
 
-List of topics (non-exhaustive):
+Sample of topics (non-exhaustive):
 - Decision trees
 - (Gaussian) naive bayes 
 - Logistic/linear regression
