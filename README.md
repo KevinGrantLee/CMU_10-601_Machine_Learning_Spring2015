@@ -21,6 +21,3 @@ Machine Learning is concerned with computer programs that automatically improve 
 - SVM
 - Active learning
 -  Dimensionality reduction
-
-
-I've skipped the programming assignments because the original hw templates are not given. Only the full solutions are given.
